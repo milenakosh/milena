@@ -1,0 +1,64 @@
+.wrappear {
+    background-image: url(../img8/Rectangle\ 12.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 800px;
+    height: 564px;
+}
+
+.title {
+    width: 130px;
+    height: 30px;
+    background-color: blue;
+
+
+    margin: 0;
+    padding: 30px;
+}
+
+.title2 {
+    width: 795px;
+    height: 100px;
+    background-color: rgba(0, 0, 254, 0.566);
+    left: 0%;
+    top: 91%;
+    position: absolute;
+    padding: 10px, 10px 10px, 10px;
+    margin: 0;
+}
+
+.olap {
+    width: 800px;
+    height: 223px;
+    background-image: url(../img8/Rectangle\ 16.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    bottom: 110px;
+    top: 100%;
+}
+
+.title3 {
+    background-image: url(../img8/Play.png);
+    background-color: rgba(0, 0, 0, 0);
+    width: 62px;
+    height: 62px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    left: 55%;
+    top: 10%;
+    right: 20%;
+    transform: translate(-100%, 100%);
+}
+
+.gg {
+    background-color: rgba(21, 34, 66, 0.5);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 800px;
+    height: 223px;
+}
